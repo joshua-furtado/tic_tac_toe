@@ -14,7 +14,7 @@ tic_tac_toe requires:
 
 Using ``pip``   ::
 
-    pip install tic_tac_toe
+    pip install tic-tac-toe-jf
 
 ## File Descriptions
 
