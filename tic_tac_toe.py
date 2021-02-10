@@ -23,7 +23,7 @@ class TicTacToe:
 
     def init_game(self):
         """Function to initialize the game. A tic-tac-toe board is displayed with position 
-        numbers. The first player,chosen randomly gets to choose their marker.
+        numbers. The first player, chosen randomly gets to choose their marker.
 
         Args:
             None
